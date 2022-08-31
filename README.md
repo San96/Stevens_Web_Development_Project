@@ -1,5 +1,7 @@
 # Stevens_Web_Development_Project
 
+This is a web development project under the subject of Web Development - I in my Master in Science in Computer Science study.
+
 Please first seed data to database using following steps and then run-
 
 cd tasks
